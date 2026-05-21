@@ -1,5 +1,3 @@
-等。以下是根据您的要求，将“nvm + Claude Code + DeepSeek + CC-Switch：完整安装与配置指南”整理为 .md 格式的完整文档。文档中已综合搜索结果的关键信息，并按照引用规范标注来源。
-
 nvm + Claude Code + DeepSeek + CC-Switch：完整安装与配置指南
 
 适用环境：Windows 10/11、macOS、Linux
